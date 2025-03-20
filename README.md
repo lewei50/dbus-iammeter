@@ -55,7 +55,7 @@ After that call the install.sh script.
 
 The following script should do everything for you:
 ```
-wget https://github.com/fabian-lauer/dbus-iammeter/archive/refs/heads/main.zip
+wget https://github.com/lewei50/dbus-iammeter/archive/refs/heads/main.zip
 unzip main.zip "dbus-iammeter-main/*" -d /data
 mv /data/dbus-iammeter-main /data/dbus-iammeter
 chmod a+x /data/dbus-iammeter/install.sh
